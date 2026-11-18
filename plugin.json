@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "zipir",
+  "version": "1.0.0",
+  "description": "Turn a document, PDF, deck or web page into a Turkish-narrated video lesson where every on-screen sentence cites its source.",
+  "author": {
+    "name": "VitrinAI Digital Studio",
+    "email": "merhaba@zipirapp.com",
+    "url": "https://zipirapp.com"
+  },
+  "homepage": "https://zipirapp.com/en/api/",
+  "repository": "https://github.com/Bitcomethub/zipir-kiro-power",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "document",
+    "pdf",
+    "powerpoint",
+    "training",
+    "education",
+    "lessons",
+    "citations",
+    "turkish",
+    "narration"
+  ],
+  "logo": "assets/logo.svg"
+}
